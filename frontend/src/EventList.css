@@ -1,0 +1,12 @@
+.event-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.4rem;
+}
+
+.event-item > button {
+    height: fit-content;
+    margin-right: 4rem;
+}
